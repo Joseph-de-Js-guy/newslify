@@ -4,7 +4,7 @@ module.exports= withCSS({
     publicRuntimeConfig: {
         APP_NAME :'newslify.ng',
         API_DEVELOPMENT: 'http://localhost:8000/api',
-        API_PRODUCTION: 'https://radiant-oasis-82939.herokuapp.com/api',
+        API_PRODUCTION: 'https://newslify.ng/api',
         PRODUCTION: true,
         DOMAIN_DEVELOPMENT: 'http://localhost:3000',
         DOMAIN_PRODUCTION: 'https://newslify.ng',
